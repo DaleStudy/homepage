@@ -44,6 +44,7 @@ class LeaderboardSection extends HTMLElement {
       }
 
       .hero {
+        position: relative;
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
@@ -67,14 +68,28 @@ class LeaderboardSection extends HTMLElement {
         @media only screen and (min-width: 1024px) {
           justify-content: center;
           width: 16%;
+          min-width: 40px;
         }
       }
 
       aside {
+        position: relative;
         width: 100%;
 
         @media only screen and (min-width: 1024px) {
-          width: 70%;
+          min-width: 70%;
+        }
+
+        :nth-of-type(1) {
+          display: block;
+          width: 75%;
+        }
+
+        :nth-of-type(2) {
+          position: absolute;
+          width: 75%;
+          bottom: 0;
+          right: 0;
         }
       }
     `;
@@ -85,7 +100,13 @@ class LeaderboardSection extends HTMLElement {
       <section>
         <aside>
           <ds-image
-            src="images/leaderboard.png"
+            src="images/leaderboard_progress.png"
+            alt="languages"
+            width="100%"
+            height="auto"
+          ></ds-image>
+          <ds-image
+            src="images/leaderboard_certificate.png"
             alt="languages"
             width="100%"
             height="auto"
