@@ -1,8 +1,8 @@
-# DALE ALGORITHM STUDY GROUP WEBSITE
+# Homepage
 
-## [Deployment](https://dalestudy.github.io/leetcode-website/)
+[![Automation 🤖](https://github.com/DaleStudy/homepage/actions/workflows/automation.yml/badge.svg)](https://github.com/DaleStudy/homepage/actions/workflows/automation.yml)
 
-## [Project Management](https://github.com/orgs/DaleStudy/projects/2)
+달레 스터디 홈페이지
 
 ## Tech Stack
 

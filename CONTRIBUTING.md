@@ -31,7 +31,7 @@ We manage our project using GitHub Projects. You can find the project [here](htt
 
 - Follow the coding style conventions of the project.
 - Use the default settings of [Prettier](https://prettier.io/).
-- For web component writing patterns, refer to this [document](https://github.com/DaleStudy/leetcode-website/issues/44).
+- For web component writing patterns, refer to this [document](https://github.com/DaleStudy/homepage/issues/44).
 
 ### Commit Messages
 
