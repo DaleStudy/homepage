@@ -286,6 +286,9 @@ class Header extends HTMLElement {
         </div>
 
         <div class="buttons-container">
+          <ds-button-link href="https://github.com/sponsors/DaleStudy" size="small" variant="ghost"
+            >후원하기</ds-button-link
+          >
           <ds-button-link href="#steps-section" size="small" variant="ghost"
             >참여방법</ds-button-link
           >
