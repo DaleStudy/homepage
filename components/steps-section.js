@@ -43,7 +43,7 @@ class StepsSection extends HTMLElement {
         <ds-step-list>
           <ds-step step="1" icon-src="images/icon_step1.png">
             <p slot="content">
-              현재 스터디 4기(2025년 3/30 ~ 2025년 7/12)가 진행중이에요. 다음
+              현재 스터디 5기(2025년 7/20 ~ 2025년 11/1)가 진행중이에요. 다음
               기수 스터디 참여를 원한다면
               <ds-step-text-link link="${APPLICATION_URL}">
                 여기
