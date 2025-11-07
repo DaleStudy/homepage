@@ -265,7 +265,13 @@ class TestimonySection extends HTMLElement {
 이번에도 꾸준히 코드 리뷰를 해주시는 코치분들, 참가자분들 덕분에 동기부여를 받을 수 있었고, 끝까지 수료할 수 있었습니다. 특히 @TonyKim9401 님이 리뷰를 정말 꼼꼼히 해주셔서 감사했습니다. 그리고 공부하면서 달레님의 알고달레 콘텐츠도 정말 큰 도움이 되었습니다. 저처럼 비전공자분들도 스터디 많이 참여하셨으면 좋겠습니다 ㅎㅎ"
             author="권나연"
             author-link="https://github.com/KwonNayeon"
-          ></ds-testimony>                    
+          ></ds-testimony>
+          <ds-testimony
+            author-img-src="https://avatars.githubusercontent.com/u/29868089"
+            content="기존에는 5개 언어로만 풀 수 있었지만 다양한 언어 사용자의 코드를 리뷰할 수 있는 달레스터디 시스템 덕분에 새로운 5개 언어를 배우며 완주했어요! Pull Request 코드마다 언어를 감지해 Label이 생성되는 등 자동화가 잘 돼 있으니 문제를 풀어 와서 리뷰만 올리면 어느새 모든 디렉토리의 기여자로 리더보드에 올라 있습니다. 저는 근 2년 간 LeetCode의 Daily 문제를 매일 풀어왔어서, 달레스터디 5기에 참여하면서는 8월부터 10월까지 15주 동안 평일에 1문제를 더 푸는 데 도전했습니다. Daily 문제는 동일 주제를 연속 출제하며 어려워지는 편인 데 반해 Blind 75 문제는 대표 유형이 다양하고 달레스터디 일정도 매주 적당한 난이도로 정리돼 있어서 마지막까지 무리 없이 소화할 수 있었습니다. 다른 풀이가 궁금할 때는 알고달레의 우리말 해설이 다양하고 필요한 부분만 발췌해 읽기 쉬우며 GitHub에서 다른 분들 코드를 검색하기도 편합니다. 그런데 Blind 75 문제는 일부 유료 문제를 결제하거나 LintCode 우회가 요구돼서 향후 모두 무료 문제인 Grind 75로 옮기는 것도 방법이라고 생각해요. 약 2천 개 Pull Request와 1만 개 커밋에 이르기까지 꾸준히 관리해 오신 @DaleSeo 님, @SamTheKorean 님, @TonyKim9401 님 모두 대단하십니다. 그리고 이번 스터디에 같이 참여하며 좋은 코드 공유해 주시고 또 리뷰해 주신 멋진 분들 감사합니다!"
+            author="yhkee0404"
+            author-link="https://github.com/yhkee0404"
+          ></ds-testimony>
         </ds-testimony-list>
       </section>
     `;
