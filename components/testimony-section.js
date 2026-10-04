@@ -337,6 +337,22 @@ class TestimonySection extends HTMLElement {
             author="Yunyoung Chung (Lizzie)"
             author-link="https://github.com/liza0525"
           ></ds-testimony>
+          <ds-testimony
+            author-img-src="https://avatars.githubusercontent.com/u/55572245"
+            content="항상 혼자서 Leetcode 문제를 풀고 있어서 다른사람 코드를 대신 리뷰해주고 제 코드도 리뷰해주는 커뮤니티같은게 있으면 좋겠다 라는 생각을 항상 가지고는 있었습니다만, ChatGPT를 통해 해당 커뮤니티를 찾던 도중 찾게 되어 운좋게도 합류하게 되었습니다!<br/>
+          다른 분 풀이들을 보면서 리뷰하고 한참 예전에 풀어놨던 Blind 75 문제 코드들을 아예 새로 구현하는 과정에서 최근에 배운 여러 내용들을 다시 복습하고 어떤 코드 스타일이 더 보기 좋고 빠르고 메모리를 덜 쓰는지에 대한 많은 고민을 하게 되었네요<br/>
+          특히 코드 리뷰할때 어떤식으로 이야기를 해야 의사 전달이 잘 되는지에 대한 많은 고민을 하게 되어 좋았습니다.<br/>
+          너무 추천드립니다!"
+            author="Alpha, Orderly"
+            author-link="https://github.com/alphaorderly"
+          ></ds-testimony>
+          <ds-testimony
+            author-img-src="https://avatars.githubusercontent.com/u/19372057"
+            content="개인적으로 공부하면서 스스로를 발전시키는 시간을 갖게 되어서 시작했던 스터디였습니다. 원래도 Leetcode 문제 푸는것을 조금씩 하고 있었는데 이왕이면 스터디를 통해 함께 문제를 풀어 보며 동기부여를 높이면 좋겠다는 생각이 들었고, 서로간의 코드리뷰를 통한 여러 관점들을 보면서 좋은 자극을 받기도 했습니다. 중간에 취업하게되어서 갑자기 바빠졌지만, 그래도 끈을 놓지 않고 끝까지 어떻게든 가보면서 다른분의 코드 한줄이라고 보고 접근법을 이해하거나 의견을 주려는 시도를 통해 지속적으로 성장했다고 느낍니다!<br/><br/>
+          달레님 그리고 코치님들, 8기 기수 여러분들 모두 그동안 수고 많으셨습니다!"
+            author="SungHo Choi"
+            author-link="https://github.com/dolphinflow86"
+          ></ds-testimony>
         </ds-testimony-list>
       </section>
     `;
