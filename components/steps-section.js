@@ -43,12 +43,13 @@ class StepsSection extends HTMLElement {
         <ds-step-list>
           <ds-step step="1" icon-src="images/icon_step1.png">
             <p slot="content">
-              현재 스터디 8기(2026년 6/21 ~ 2026년 10/3)가 진행중이에요. 다음
-              기수 스터디 참여를 원한다면
+              스터디 9기는 2026년 11월 2일부터 2027년 2월 21일까지 16주간
+              진행돼요. 신청 기간은 2026년 10월 19일부터 11월 1일까지이며, 모든
+              일정은 한국 시간 기준이에요. 자세한 참여 방법은
               <ds-step-text-link link="${APPLICATION_URL}">
-                여기
+                9기 모집 안내
               </ds-step-text-link>
-              에서 신청할 수 있어요.
+              에서 확인해주세요.
             </p>
           </ds-step>
           <ds-step step="2" icon-src="images/icon_step2.png">
